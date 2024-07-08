@@ -1,0 +1,34 @@
+
+›	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.(«û¤Ù8³¨«çˆ2J$afbaa8f3-cce6-4afc-8fe2-2ba7ed3bb30f
+š	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78´¨«çˆ2J$3620b289-c5ad-46cf-acb7-cd2a5bf5cf13
+•
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ÛÛ¯ø8¹©«çˆ2J$4513ea8d-a5ff-49cb-9813-678f9cf8f0a2
+^
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8¹©«çˆ2J$7c545602-b592-4424-aec2-0652c7a1d3cb
+^
+java:S3626M"Remove this redundant jump.(ÉŠ©ƒ8¹©«çˆ2J$9c53e7c4-8b33-4d09-985f-b3acab585b1f
+r	java:S106"+Replace this use of System.out by a logger.(­¶­ÿÿÿÿÿ8½©«çˆ2J$ed60f4e0-1379-4f16-bcd9-0a5f9ab1c1b4
+r	java:S106"+Replace this use of System.out by a logger.(ÔñÓÆùÿÿÿÿ8½©«çˆ2J$eaec0009-a264-4609-b466-44ce235c74dc
+r	java:S106"+Replace this use of System.out by a logger.(­Ê’şüÿÿÿÿ8¾©«çˆ2J$8c0a28ee-4bb9-43d0-be3d-574e3826ac86
+l	java:S106("+Replace this use of System.out by a logger.(ªõŠ8¾©«çˆ2J$f2badb34-c3c4-413a-ab10-55f81572d31d
+r	java:S106+"+Replace this use of System.out by a logger.(Ì‡×—üÿÿÿÿ8¾©«çˆ2J$7a5375e3-b809-4857-99ee-fc95bad08c19
+r	java:S106."+Replace this use of System.out by a logger.(ˆî‡ûÿÿÿÿ8¾©«çˆ2J$9fe70fc3-9b55-447e-9f99-90ee30ff1778
+r	java:S1061"+Replace this use of System.out by a logger.(œß“¾ÿÿÿÿÿ8¾©«çˆ2J$deeee9d7-c5b7-4a52-8d68-71a3aa0c3912
+r	java:S1063"+Replace this use of System.out by a logger.(Ï¯¬Öùÿÿÿÿ8¾©«çˆ2J$266dcb7b-78a0-4f82-9a90-48fdafb332dd
+r	java:S1066"+Replace this use of System.out by a logger.(¢éÄšÿÿÿÿÿ8¿©«çˆ2J$fc764f37-51c0-40a4-b1d1-ddbc20d63b13
+r	java:S1068"+Replace this use of System.out by a logger.(¢™–•ùÿÿÿÿ8¿©«çˆ2J$c7faa7d8-2d3c-4d33-b152-4732f1dcbc4b
+m	java:S106;"+Replace this use of System.out by a logger.(óÖ¹Ö8¿©«çˆ2J$2cca701f-139b-41c2-99e7-514f5f8c7b6a
+m	java:S106>"+Replace this use of System.out by a logger.(¥ÔÛÛ8¿©«çˆ2J$adc1e463-8ef7-458e-a310-7479e7734054
+r	java:S106A"+Replace this use of System.out by a logger.(²œòéÿÿÿÿÿ8¿©«çˆ2J$d2462748-fea5-4e57-b8bc-86f5ae8dbd0d
+l	java:S106C"+Replace this use of System.out by a logger.(şªóV8¿©«çˆ2J$842c8f73-457a-47d2-9808-2fda2fda881d
+r	java:S106F"+Replace this use of System.out by a logger.(Ôİú’şÿÿÿÿ8À©«çˆ2J$c1a3f973-7e99-4a37-9294-1c6c026c413b
+m	java:S106H"+Replace this use of System.out by a logger.(¿şÜ8À©«çˆ2J$3434979d-4ed4-49b9-b13f-af8011fa9735
+r	java:S106L"+Replace this use of System.out by a logger.(ÈŠèŞùÿÿÿÿ8À©«çˆ2J$2cbdbdb2-f798-4041-a786-251857b0d8c6
+r	java:S106O"+Replace this use of System.out by a logger.(¨íñéıÿÿÿÿ8À©«çˆ2J$e11ba8a7-f978-4a0e-8f74-b157128c2fc9
+r	java:S106S"+Replace this use of System.out by a logger.(íÛ’¤ûÿÿÿÿ8Á©«çˆ2J$fc44ee26-dee3-49c2-9906-b46e3be3f5fe
+m	java:S106^"+Replace this use of System.out by a logger.(ÚŒªæ8Á©«çˆ2J$0cf607f5-80ff-4558-8f43-65f6a85e0888
+m	java:S106_"+Replace this use of System.out by a logger.(ñú¹8³’®çˆ2J$f76429d8-ba64-4d38-b10c-c56ad4eff2b6
+‰
+java:S6541
+"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 88 to 64, Complexity from 16 to 14, Nesting Level from 6 to 2, Number of Variables from 17 to 6.(ÛÛ¯ø8Â©«çˆ2J$c2bce101-5677-4837-a53e-15bb44e04cff

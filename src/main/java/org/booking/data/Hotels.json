@@ -1,0 +1,24 @@
+[
+    {
+        "name": "ddk",
+        "description": "Great View",
+        "wifi": true,
+        "ac": true,
+        "contactNo": "1233040",
+        "rooms": [
+            "101",
+            "102"
+        ]
+    },
+    {
+        "name": "GreatView",
+        "description": "5 star rated",
+        "wifi": false,
+        "ac": true,
+        "contactNo": "1233040",
+        "rooms": [
+            "501",
+            "502"
+        ]
+    }
+]

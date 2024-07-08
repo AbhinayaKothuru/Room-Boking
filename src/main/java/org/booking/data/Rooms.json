@@ -1,0 +1,14 @@
+[
+  {
+    "roomNo": "501",
+    "hotelName": "Great View",
+    "noOfBeds": 3,
+    "cost": 1500
+  },
+  {
+    "roomNo": "102",
+    "hotelName": "ddk",
+    "noOfBeds": 3,
+    "cost": 1000
+  }
+]

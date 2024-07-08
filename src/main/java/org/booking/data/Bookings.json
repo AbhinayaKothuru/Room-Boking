@@ -1,0 +1,10 @@
+[
+    {
+        "userName": "gokul",
+        "bookingID": "1ddd3fac-0441-4bf0-9fdb-b1075176735a",
+        "hotelName": "ddk",
+        "roomsBooked": "102",
+        "totalCost": 1000,
+        "dateOfBooking": "01:03:2024"
+    }
+]

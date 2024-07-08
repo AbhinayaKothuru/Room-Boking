@@ -1,0 +1,10 @@
+
+¡
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÖ»¤şÿÿÿÿ8îšßˆ2J$0323e9fa-4426-4213-b4f1-488d114f4a68
+¦
+java:S4165#"cRemove this useless assignment; "rooms" already holds the assigned value along all execution paths.(ïÎş•8ñšßˆ2J$e5e6ecf6-bbf3-4ac6-8847-3a56927c1ca5
+|
+java:S1854#"9Remove this useless assignment to local variable "rooms".(ïÎş•8õšßˆ2J$03bdc37e-4303-4bb9-b3f9-97978808cc74
+r
+java:S1656#"/Remove or correct this useless self-assignment.(ïÎş•8õšßˆ2J$baf7ef4b-fea9-4df8-a471-5d5f1d8b1054

@@ -1,0 +1,16 @@
+[
+    {
+        "name": "admin",
+        "password": "admin",
+        "mail": "dsd@",
+        "phoneNumber": "dsds",
+        "age": 12
+    },
+    {
+        "name": "gokul",
+        "password": "Gokul@gokul",
+        "mail": "@@@@@@gokul",
+        "phoneNumber": "9101010101",
+        "age": 12
+    }
+]
